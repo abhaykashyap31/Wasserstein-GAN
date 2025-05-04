@@ -148,6 +148,10 @@ scikit-learn
 PIL
 ```
 
+![Generated Samples with default Hyperparams](output.png)
+![Generated Synthetic Samples](output2.png)
+
+
 ---
 
 ## ▶️ Usage Instructions
