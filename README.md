@@ -1,5 +1,5 @@
 
-# 🚀 WGAN.ipynb – Wasserstein GAN on CelebA Dataset
+# 🚀 Wasserstein GAN on CelebA Dataset
 
 This notebook implements a **Wasserstein Generative Adversarial Network (WGAN)** using PyTorch to generate realistic images based on the CelebA dataset. Designed with clarity and modularity in mind, it is suitable for both **research** and **learning** purposes.
 
